@@ -4,14 +4,16 @@
 
 #### 直接 Fork 之后需要修改以下内容为你的账户
 
-	/script.js:4-6 对应账户的二维码路径
-
-	/index.html:28 PayPal.me 改为现在收款页面，这样可以删除原来的按钮方式了。
+```
+/script.js:4-6 对应账户的二维码路径
+/index.html:28 PayPal.me 改为现在收款页面，这样可以删除原来的按钮方式了。
+```
 
 #### 针对不同项目可以直接在 URL 加入项目参数和金额，不过仅仅作用于 PayPal 方式.
 
-`https://cdn.rawgit.com/TinyJay/donate-page/6fe4f885/simple/?item='donate-page&price=2'`
-
+```
+https://cdn.rawgit.com/TinyJay/donate-page/6fe4f885/simple/?item='donate-page&price=2'
+```
 
 #### 使用 `iframe` 嵌入页面的代码，高度至少 `240px`，宽度至少 `310px`！
 
