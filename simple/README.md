@@ -10,7 +10,7 @@
 
 #### 针对不同项目可以直接在 URL 加入项目参数和金额，不过仅仅作用于 PayPal 方式.
 
-`https://kaiyuan.github.io/donate-page/simple/?item='donate-page&price=2'`
+`https://tinyjay.github.io/donate-page/simple/?item='donate-page&price=2'`
 
 
 #### 使用 `iframe` 嵌入页面的代码，高度至少 `240px`，宽度至少 `310px`！
