@@ -4,11 +4,13 @@
 
 **Demo在线演示：**[https://cdn.rawgit.com/TinyJay/donate-page/6fe4f885/simple/index.html](https://cdn.rawgit.com/TinyJay/donate-page/6fe4f885/simple/index.html)
 
-**bitcoin按钮样式GitHub地址：**[donate-page](https://github.com/Kaiyuan/donate-page)
+![GIF动态效果图](http://upload-images.jianshu.io/upload_images/1819713-518ef42c3301b2fa.gif?imageMogr2/auto-orient/strip)
 
-**bitcoin按钮样式在线演示：**[Example](https://kaiyuan.github.io/donate-page/simple/)
+<!--**bitcoin按钮样式GitHub地址：**[donate-page](https://github.com/Kaiyuan/donate-page)
 
-<video class="share-video" id="share-video" poster="https://thumbs.gfycat.com/TatteredAlarmingCopperhead-poster.jpg" autoplay="" muted="" loop=""><source id="webmSource" src="https://zippy.gfycat.com/TatteredAlarmingCopperhead.webm" type="video/webm"><source id="mp4Source" src="https://zippy.gfycat.com/TatteredAlarmingCopperhead.mp4" type="video/mp4"><img title="Sorry, your browser doesn't support HTML5 video." src="https://i.imgur.com/yNz5vJc.gif"></video>
+**bitcoin按钮样式在线演示：**[Example](https://kaiyuan.github.io/donate-page/simple/)-->
+
+<!--<video class="share-video" id="share-video" poster="https://thumbs.gfycat.com/TatteredAlarmingCopperhead-poster.jpg" autoplay="" muted="" loop=""><source id="webmSource" src="https://zippy.gfycat.com/TatteredAlarmingCopperhead.webm" type="video/webm"><source id="mp4Source" src="https://zippy.gfycat.com/TatteredAlarmingCopperhead.mp4" type="video/mp4"><img title="Sorry, your browser doesn't support HTML5 video." src="https://i.imgur.com/yNz5vJc.gif"></video>-->
 ---
 
 ### License
