@@ -2,9 +2,9 @@
 
 一款捐赠按钮样式，包含PayPal、支付宝、微信，可使用iframe直接嵌入，方便简洁。
 
-**Demo在线演示：**[https://cdn.rawgit.com/TinyJay/donate-page/6fe4f885/simple/index.html](https://cdn.rawgit.com/TinyJay/donate-page/6fe4f885/simple/index.html)
+**Demo在线演示：**[https://rawcdn.githack.com/TinyJay/donate-page/51aaf216f048b8e6d5ce01443a32be930b91869d/simple/index.html](https://rawcdn.githack.com/TinyJay/donate-page/51aaf216f048b8e6d5ce01443a32be930b91869d/simple/index.html)
 
-![GIF动态效果图](http://upload-images.jianshu.io/upload_images/1819713-518ef42c3301b2fa.gif?imageMogr2/auto-orient/strip)
+![GIF动态效果图](https://upload-images.jianshu.io/upload_images/1819713-518ef42c3301b2fa.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/420/format/webp)
 
 <!--**bitcoin按钮样式GitHub地址：**[donate-page](https://github.com/Kaiyuan/donate-page)
 
