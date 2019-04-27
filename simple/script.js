@@ -2,7 +2,7 @@ jQuery(document).ready(function() {
 	var QRBox	=	$('#QRBox');
 	var MainBox	=	$('#MainBox');
 	var AliPayQR	=	'images/aliPay.jpg';
-	var WeChanQR	=	'images/weChatPay.png';
+	var WeChanQR	=	'images/wechatPay.png';
 
 	
 
